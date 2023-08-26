@@ -1,2 +1,2 @@
-html,body {height:100%}
+html,body {height:100%; margin:0; padding:0}
 body {background:url(../images/img.jpg) no-repeat center; background-size:cover}
